@@ -44,6 +44,9 @@ So these are few tasks Jarvis (v1) can perform, explore the code for more tasks 
 
 In order to run this assistant you need to install the following dependencies and packages of python.
 
+Any version of python is needed to be installed before installing these packages.
+(I've used python 3.8 and Pycharm as IDE)
+
 1. pyttsx3 - pip install pyttsx3
 
 2. pyaudio - pip install pyaudio
@@ -53,4 +56,12 @@ In order to run this assistant you need to install the following dependencies an
 4. Wikipedia - pip install wikipedia
 
 Make sure you import all other packages mentioned in required.txt
+
+# Installation
+
+1. Clone or download the repository
+2. Unzip the file 
+3. Open the python file in any editor or IDE(Pycharm, Spyder, Visual Studio Code etc)
+4. Install the above mentioned packages and import all the required files.
+5. Run the code and Jarvis (v1) will be at your service :)
 
