@@ -2,6 +2,10 @@
 # J.A.R.V.I.S - Just A Rather Very Intelligent System
 Jarvis, a simple personal assistant
 
+Check out the demo video by clicking here 
+https://youtu.be/dDGsYniTtmw
+
+
 In this mini project, I've attempted to create a very simple Personal Assistant that understands speech and replies accordingly. This project is based on simple python code.
 
 Jarvis-Ai-Assistant can perform tasks like:
@@ -40,8 +44,7 @@ Jarvis-Ai-Assistant can perform tasks like:
 
 So these are few tasks Jarvis (v1) can perform, explore the code for more tasks in detail.
 
-Check out the demo video by clicking here 
-https://youtu.be/dDGsYniTtmw
+
 
 # Requirements
 
